@@ -1,1 +1,1 @@
-# code-collect-privacy
+# yomumon-privacy
